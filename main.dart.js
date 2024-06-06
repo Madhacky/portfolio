@@ -77107,7 +77107,7 @@ J(a){var s=null,r=this.d
 return new A.x5(new A.Iw(r,A.fj(A.b([new A.yq(r,s),A.cq(s,40,s),new A.rZ(r,s),new A.It(s),A.cq(s,20,s),new A.E2(s)],t.p),B.bd,B.aQ,B.a5),s),s)}}
 A.Gs.prototype={
 J(a){var s=null
-return new A.vB(new A.uS(s),"Flutter Demo",A.yj(s,$.arV(),s,A.an0(A.aR())),!1,s)}}
+return new A.vB(new A.uS(s),"Portfolio",A.yj(s,$.arV(),s,A.an0(A.aR())),!1,s)}}
 A.Is.prototype={}
 A.rZ.prototype={
 ae(){return new A.JG(null,null,B.k)}}
